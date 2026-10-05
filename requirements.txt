@@ -1,0 +1,9 @@
+streamlit>=1.36
+requests>=2.31
+dnspython>=2.4
+Pillow>=10.0
+pypdf>=4.0
+dpkt>=1.9.8
+psutil>=5.9
+pandas>=2.0
+pytest>=8.0
